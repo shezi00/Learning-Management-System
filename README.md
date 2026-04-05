@@ -17,6 +17,16 @@ Frontend: React JS
 Backend: Node.js, Express
 Database: MySql
 
+Screenshots:
+Login Page
+![Login Page](screenshots/22.png)
+
+Admin Dashboard
+![Dashboard](screenshots/23.png)
+
+Front Page
+![Courses](screenshots/w1.png)
+
 Installation
 1. Clone the repository
 2. Install dependencies:
